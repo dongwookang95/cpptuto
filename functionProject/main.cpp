@@ -70,7 +70,7 @@ void get_element(const vector <int> input){
         for(int i:input){
             cout << "This is what you have in your array : " << i << " ";
     }
-}
+}0
 
 vector<int> add_element(vector <int> input){
     int number_in {0};
