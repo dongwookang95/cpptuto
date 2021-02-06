@@ -68,7 +68,8 @@
         "numeric": "cpp",
         "set": "cpp",
         "queue": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "fstream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
